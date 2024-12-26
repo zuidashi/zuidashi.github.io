@@ -2,5 +2,6 @@
     "title":"醉大师",
     "subTitle":"不乱于心，不困于情。不畏将来，不念过往。如此，安好。",
     "avatarUrl":"https://zuidashi.github.io/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>"
 }
