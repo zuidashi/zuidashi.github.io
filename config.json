@@ -1,7 +1,7 @@
 {
     "title":"爱科林",
-    "subTitle":"不畏将来 不念过往 如此 安好",
-    "avatarUrl":"https://zuidashi.github.io/avatar.png",
+    "subTitle":"不畏将来 不念过往",
+    "avatarUrl":"http://blog.aklin.cn/avatar.png",
     "GMEEK_VERSION":"last",
 
     "displayTitle":"aklin",
@@ -24,7 +24,7 @@
     "indexScript":"",
     "showPostSource":0,
     "rssSplit":"sentence",
-    "bottomText":"转载请注明出处",
+    "bottomText":"💖 转载请注明出处，谢谢 💖",
     "needComment":0,
 
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
