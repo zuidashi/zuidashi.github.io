@@ -4,7 +4,7 @@ function createVercount() {
         postBody.insertAdjacentHTML('afterend','<div id="busuanzi_container_page_pv" style="display:none;float:left;margin-top:8px;font-size:small;">本文已被查看<span id="busuanzi_value_page_pv"></span>次</div>');
     }
     var runday = document.getElementById('runday');
-    runday.insertAdjacentHTML('afterend', '<span id="busuanzi_container_site_pv" style="display:none">网站总浏览<span id="busuanzi_value_site_pv"></span>次 Theme by Gmeek</span>');
+    runday.insertAdjacentHTML('afterend', '<span id="busuanzi_container_site_pv" style="display:none">网站总浏览<span id="busuanzi_value_site_pv"></span>次 Powered by <a href="#">Gmeek</a></span>');
 }
 
 document.addEventListener("DOMContentLoaded", function() {
