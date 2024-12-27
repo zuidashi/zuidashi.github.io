@@ -112,6 +112,10 @@ document.addEventListener('DOMContentLoaded', function() {
             overflow: auto;
         }
 
+        #footer2 span:last-child {
+          display: none;
+        }
+
         /* markdown内容 */
         /* 图片圆角 */
         .markdown-body img {
