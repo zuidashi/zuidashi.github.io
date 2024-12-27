@@ -37,8 +37,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         html {    
-            background: url('https://zuidashi.github.io/background.webp') no-repeat center center fixed;
-            background-size: cover;
+            /background: url('https://zuidashi.github.io/background.webp') no-repeat center center fixed;
+            background-size: cover;*/
+            background-color: #eee;
         }
 
         /* 主体布局 */
