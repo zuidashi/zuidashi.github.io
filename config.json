@@ -28,5 +28,5 @@
     "needComment":0,
 
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "allHead":"<script src='https://blog.aklin.cn/plugins/UserFooter.js'><script src='https://blog.aklin.cn/plugins/RonanTheme.js'>"
+    "allHead":"<script src='https://blog.aklin.cn/plugins/UserFooter.js'></script><script src='https://blog.aklin.cn/plugins/RonanTheme.js'></script>"
 }
