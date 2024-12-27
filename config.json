@@ -3,11 +3,6 @@
     "subTitle":"不乱于心，不困于情。不畏将来，不念过往。如此，安好。",
     "avatarUrl":"https://zuidashi.github.io/avatar.png",
     "GMEEK_VERSION":"last",
-    
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
 
     "displayTitle":"zuidashi",
     "faviconUrl":"https://zuidashi.github.io/favicon.svg",
@@ -32,5 +27,10 @@
     "showPostSource":0,
     "rssSplit":"sentence",
     "bottomText":"转载请注明出处",
-    "needComment":0
+    "needComment":0,
+
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
