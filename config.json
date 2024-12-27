@@ -24,7 +24,7 @@
     "showPostSource":0,
     "rssSplit":"sentence",
     "bottomText":"转载请注明出处",
-    "needComment":0
+    "needComment":0,
 
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "allHead":"<script src='https://zuidashi.github.io/plugins/RonanTheme.js'>",
