@@ -25,10 +25,6 @@ document.addEventListener('DOMContentLoaded', function() {
             align-items: center;
         }
 
-        #footer2 span:last-child {
-          display: none;
-        }
-
         .avatar {
             width: 200px;
             height: 200px;
