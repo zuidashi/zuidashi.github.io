@@ -1,7 +1,7 @@
 {
     "title":"醉大师",
     "subTitle":"不乱于心，不困于情。不畏将来，不念过往。如此，安好。",
-    "avatarUrl":"https://zuidashi.github.io/favicon.svg",
+    "avatarUrl":"https://zuidashi.github.io/avatar.png",
     "GMEEK_VERSION":"last",
     
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
@@ -10,6 +10,7 @@
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
 
     "displayTitle":"软件和技术分享",
+    "faviconUrl":"https://zuidashi.github.io/favicon.svg",
     "email":"zuiqinghe@hotmail.com",
     "startSite":"25/12/2024",
     "filingNum":"豫ICP备20024862号",
