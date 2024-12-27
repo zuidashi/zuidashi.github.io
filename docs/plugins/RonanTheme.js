@@ -30,12 +30,6 @@ document.addEventListener('DOMContentLoaded', function() {
             height: 200px;
         }
 
-        #header h1 a {
-            margin-top: 30px;
-            font-family: fantasy;
-            margin-left: unset;
-        }
-
         #footer2 span:last-child {
           display: none;
         }
@@ -110,10 +104,6 @@ document.addEventListener('DOMContentLoaded', function() {
             border-radius: 10px; /* 圆角边框 */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* 添加阴影 */
             overflow: auto;
-        }
-
-        #footer2 span:last-child {
-          display: none;
         }
 
         /* markdown内容 */
