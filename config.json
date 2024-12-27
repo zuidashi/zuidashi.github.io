@@ -1,12 +1,12 @@
 {
     "title":"爱科林",
     "subTitle":"不畏将来 不念过往",
-    "avatarUrl":"http://blog.aklin.cn/avatar.png",
+    "avatarUrl":"https://blog.aklin.cn/avatar.png",
     "GMEEK_VERSION":"last",
 
     "displayTitle":"aklin",
-    "homeUrl":"http://blog.aklin.cn",
-    "faviconUrl":"http://blog.aklin.cn/favicon.svg",
+    "homeUrl":"https://blog.aklin.cn",
+    "faviconUrl":"https://blog.aklin.cn/favicon.svg",
     "email":"zuiqinghe@hotmail.com",
     "startSite":"12/25/2024",
     "onePageListNum":15,
@@ -28,5 +28,5 @@
     "needComment":0,
 
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "allHead":"<script src='http://blog.aklin.cn/plugins/RonanTheme.js'>"
+    "allHead":"<script src='https://blog.aklin.cn/plugins/RonanTheme.js'>"
 }
