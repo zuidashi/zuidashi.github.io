@@ -20,7 +20,7 @@
     "style":"",
     "script":"",
     "head":"",
-    "allHead":"<script src='https://zuidashi.github.io/plugins/RonanTheme.js'></script>",
+    "allHead":"<script src='https://zuidashi.github.io/plugins/RonanTheme.js'></script><script src='https://zuidashi.github.io/plugins/GmeekVercount.js'></script>",
     "indexStyle":"",
     "indexScript":"",
     "showPostSource":0,
@@ -28,7 +28,6 @@
     "bottomText":"转载请注明出处",
     "needComment":0,
 
-    "allHead":"<script src='https://zuidashi.github.io/plugins/GmeekVercount.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
