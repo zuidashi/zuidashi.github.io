@@ -6,7 +6,7 @@
 
     "displayTitle":"aklin",
     "homeUrl":"http://blog.aklin.cn",
-    "faviconUrl":"https://zuidashi.github.io/favicon.svg",
+    "faviconUrl":"http://blog.aklin.cn/favicon.svg",
     "email":"zuiqinghe@hotmail.com",
     "startSite":"12/25/2024",
     "onePageListNum":15,
@@ -28,5 +28,5 @@
     "needComment":0,
 
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "allHead":"<script src='https://zuidashi.github.io/plugins/RonanTheme.js'>"
+    "allHead":"<script src='http://blog.aklin.cn/plugins/RonanTheme.js'>"
 }
