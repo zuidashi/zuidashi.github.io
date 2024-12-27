@@ -1,7 +1,7 @@
 function createVercount() {
     var postBody = document.getElementById('postBody');
     if (postBody){
-        postBody.insertAdjacentHTML('afterend','<div id="busuanzi_container_page_pv" style="display:none;float:left;margin-top:8px;font-size:small;">文章已被查看<span id="busuanzi_value_page_pv"></span>次</div>');
+        postBody.insertAdjacentHTML('afterend','<div id="busuanzi_container_page_pv" style="display:none;float:left;margin-top:8px;font-size:small;">本文已被查看<span id="busuanzi_value_page_pv"></span>次</div>');
     }
     var runday = document.getElementById('runday');
     runday.insertAdjacentHTML('afterend', '<span id="busuanzi_container_site_pv" style="display:none">网站总浏览<span id="busuanzi_value_site_pv"></span>次 </span>');
