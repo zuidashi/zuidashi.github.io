@@ -30,8 +30,10 @@ document.addEventListener('DOMContentLoaded', function() {
             height: 200px;
         }
 
-        #footer2 span:last-child {
-          display: none;
+        #header h1 a {
+            margin-top: 30px;
+            font-family: fantasy;
+            margin-left: unset;
         }
 
         html {    
