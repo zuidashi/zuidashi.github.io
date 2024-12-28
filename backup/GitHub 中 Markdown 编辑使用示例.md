@@ -1,5 +1,8 @@
 Markdown 是一种轻量级的标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。GitHub 支持 Markdown 语法，使其成为编写和分享代码、文档以及项目文档的理想平台。以下是一篇关于如何在 GitHub 中使用 Markdown 编辑的示例文章。
 
+## 参考链接
+[GitHub基本撰写和格式语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+
 ## 1. 标题
 
 在 Markdown 中，你可以通过在文本前加上不同数量的 `#` 符号来创建不同级别的标题。
