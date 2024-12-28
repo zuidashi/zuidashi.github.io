@@ -27,6 +27,6 @@
     "bottomText":"💖 转载请注明出处，谢谢 💖",
     "needComment":0,
 
-    "script":"<script src='https://blog.freeblock.cn/plugins/ArticleTOC.js'></script> <script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "script":"<script src='https://blog.aklin.cn/plugins/ArticleTOC.js'></script> <script src='https://blog.aklin.cn/plugins/lightbox.js'></script>",
     "allHead":"<script src='https://blog.aklin.cn/plugins/RonanTheme.js'></script>"
 }
