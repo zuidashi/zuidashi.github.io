@@ -1,4 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {    
+    //自定义页脚------------------------------------------------------------------------------
+    var runday = document.getElementById('runday');
+    runday.insertAdjacentHTML('afterend', '<span id="userfooter"> 友情连接 • 免责声明 • 关于本站 • </span>');
+    
     let currentUrl = window.location.pathname;
     //let currentHost = window.location.hostname;
 
@@ -37,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         html {    
-            background: url('https://zuidashi.github.io/background.webp') no-repeat center center fixed;
+            background: url('https://blog.aklin.cn/background.webp') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -90,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
         style.innerHTML = `
 
         html {    
-            background: url('https://zuidashi.github.io/background.webp') no-repeat center center fixed;
+            background: url('https://blog.aklin.cn/background.webp') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -162,7 +166,7 @@ document.addEventListener('DOMContentLoaded', function() {
         style.innerHTML = `
         
         html {    
-            background: url('https://blog.freeblock.cn/background.webp') no-repeat center center fixed;
+            background: url('https://blog.aklin.cn/background.webp') no-repeat center center fixed;
             background-size: cover;
         }
 
