@@ -1,4 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {    
+    //自定义页脚------------------------------------------------------------------------------
+    var runday = document.getElementById('runday');
+    runday.insertAdjacentHTML('afterend', '<span id="userfooter"> 友情连接 • 免责声明 • 关于本站 • </span>');
+    
     let currentUrl = window.location.pathname;
     //let currentHost = window.location.hostname;
 
