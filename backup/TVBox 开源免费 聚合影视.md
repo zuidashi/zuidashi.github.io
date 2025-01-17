@@ -18,6 +18,16 @@ https://github.com/Hunlongyu/ZY-Player
 ### 网络收集源
 *单仓使用*
 ```
+小哥哥软件
+https://www.tvbox.xin/tvbox.json
+
+香雅情
+https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+
+网络收集
+http://yuan.haitangw.net/tv/
+http://yuan.haitangw.net/box/
+
 V哥稳定
 http://稳定接口.tvbox.中国
  
@@ -100,6 +110,14 @@ https://安卓哥.com/ZB
  
 盒子迷
 https://盒子迷.top/ZB
+
+荷城茶秀
+http://rihou.cc:88/荷城茶秀
+
+网络收集
+https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
+https://raw.gitmirror.com/159ecn/vip/main/ysc/t.json
+https://agit.ai/ddx/TVBox/raw/branch/master/t4.json
 ```
 
 ### 下载地址
