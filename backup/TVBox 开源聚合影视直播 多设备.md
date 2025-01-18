@@ -2,7 +2,7 @@
 TVBox是一款开源的电视观影软件，支持蓝光4K画质，提供多种配置接口，用户可以根据个人喜好进行选择和配置。它是一个功能强大的TV追剧神器，用户可以通过导入接口设置数据源，查看目标站点资源的所有分类，包括所有相关的影片。TVBox支持电视直播功能，若接口包含直播源，用户可以在播放器中观看直播节目，集成了一个直播APP的功能。
 
 ### 软件截图
-![Image](https://github.com/user-attachments/assets/3d24a37f-1140-4c04-b78a-adf532f2add3)
+![Image](https://cdn.jsdelivr.net/gh/zuidashi/zuidashi.github.io@main/static/images/TVBox.png)
 
 ### 特点描述
 https://github.com/FongMi/Release
