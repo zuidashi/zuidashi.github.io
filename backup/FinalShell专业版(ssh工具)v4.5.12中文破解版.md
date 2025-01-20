@@ -2,7 +2,7 @@
 FinalShell专业版是一体化的服务器管理SSH工具,网络管理软件,远程桌面加速软件,Linux系统远程连接工具.finalshell破解版不仅是SSH客户端还是功能强大的开发运维工具,充分满足开发及运维需求.特色功能包括:云端同步,免费海外服务器,远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数.
 
 ### 软件截图
-![Image](https://cdn.jsdelivr.net/gh/zuidashi/zuidashi.github.io@main/static/images/FinalShell.png)
+![Image](https://blog.aklin.cn/images/FinalShell.png)
 
 ### 特点描述
 魔影网络
