@@ -4,7 +4,7 @@ TVBox是一款开源的电视观影软件，支持蓝光4K画质，提供多种�
 ### 软件截图
 ![Image](https://cdn.jsdelivr.net/gh/zuidashi/zuidashi.github.io@main/static/images/TVBox.png)
 
-### 特点描述
+### 软件详情
 https://github.com/FongMi/Release
 https://github.com/Hunlongyu/ZY-Player
 支持各类爬虫源、XP源、采集源等，无任何限制和广告。
@@ -15,8 +15,8 @@ https://github.com/Hunlongyu/ZY-Player
 某些版本支持直播回放、直播多线路、直播倍速、手机投屏等功能。
 用户可以自行配置或根据社区提供的资源接口进行使用。
 
-### 网络收集源
-*单仓使用*
+### 收集源
+#### 单仓使用
 ```
 小哥哥软件
 https://www.tvbox.xin/tvbox.json
@@ -71,7 +71,7 @@ http://1.itvbox.cc/云星日记
 http://2.itvbox.cc/云星日记
 ```
 
-*多仓使用*
+#### 多仓使用
 ```
 V哥
 https://多仓.tvbox.中国
@@ -97,7 +97,7 @@ http://1.itvbox.cc/可视仓库
 http://2.itvbox.cc/可视仓库
 ```
 
-*直播源*
+#### 直播源
 ```
 V哥4K
 https://4K.tvbox.中国
@@ -122,4 +122,4 @@ https://agit.ai/ddx/TVBox/raw/branch/master/t4.json
 
 ### 下载地址
 https://www.123pan.com/s/2F5A-BU0P3.html
-https://zuiqinghe.lanzouv.com/b00eeu543c         提取码: 3r12
+https://zuiqinghe.lanzouv.com/b00eeu543c         提取码: `3r12`
