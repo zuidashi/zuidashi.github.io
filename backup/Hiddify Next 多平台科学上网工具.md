@@ -3,7 +3,7 @@
 多平台支持: iOS、Android、Windows、macOS、Linux
 
 ### 软件截图
-![Image](https://cdn.jsdelivr.net/gh/zuidashi/zuidashi.github.io@main/static/images/20250120103825.png)
+![Image](https://blog.aklin.cn/images/20250120103825.png)
 
 ### 软件详情
 https://github.com/hiddify/hiddify-next
