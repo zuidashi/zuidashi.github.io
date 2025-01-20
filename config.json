@@ -25,7 +25,7 @@
     "showPostSource":0,
     "rssSplit":"sentence",
     "bottomText":"💖 转载请注明出处，谢谢 💖",
-    "needComment":0,
+    "needComment":1,
 
     "script":"<script src='https://blog.aklin.cn/plugins/ArticleTOC.js'></script> <script src='https://blog.aklin.cn/plugins/lightbox.js'></script>",
     "allHead":"<script src='https://blog.aklin.cn/plugins/RonanTheme.js'></script>"
