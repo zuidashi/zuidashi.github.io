@@ -44,3 +44,4 @@ BitLocker、XBOX、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧�
 
 ### 下载地址
 https://cloud.189.cn/web/share?code=NNR3Y3UzErAf    密码: `1fps`
+https://www.123pan.com/s/2F5A-oAlP3    提取码: `yuwk`
