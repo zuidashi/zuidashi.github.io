@@ -17,7 +17,7 @@
 <meta property="og:url" content="https://blog.aklin.cn/post/1.html">
 <meta property="og:image" content="https://blog.aklin.cn/avatar.webp">
 <title>GitHub 中 Markdown 编辑使用示例</title>
-
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
 
 
 </head>
@@ -82,69 +82,60 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p><a href="https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings">GitHub基本撰写和格式语法</a></p>
 <h2>1. 标题</h2>
 <p>在 Markdown 中，你可以通过在文本前加上不同数量的 <code class="notranslate">#</code> 符号来创建不同级别的标题。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate"># 这是一级标题
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-mh"># <span class="pl-en">这是一级标题</span></span>
 
-## 这是二级标题
+<span class="pl-mh">## <span class="pl-en">这是二级标题</span></span>
 
-### 这是三级标题
+<span class="pl-mh">### <span class="pl-en">这是三级标题</span></span>
 
-#### 这是四级标题
+<span class="pl-mh">#### <span class="pl-en">这是四级标题</span></span>
 
-##### 这是五级标题
+<span class="pl-mh">##### <span class="pl-en">这是五级标题</span></span>
 
-###### 这是六级标题
-</code></pre>
+<span class="pl-mh">###### <span class="pl-en">这是六级标题</span></span></pre></div>
 <h2>2. 强调</h2>
 <p>你可以通过星号 <code class="notranslate">*</code> 或下划线 <code class="notranslate">_</code> 来对文本进行强调。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">*这是斜体文本*
-_这也是斜体文本_
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-s">*</span>这是斜体文本<span class="pl-s">*</span>
+<span class="pl-s">_</span>这也是斜体文本<span class="pl-s">_</span>
 
-**这是粗体文本**
-__这也是粗体文本__
+<span class="pl-s">**</span>这是粗体文本<span class="pl-s">**</span>
+<span class="pl-s">__</span>这也是粗体文本<span class="pl-s">__</span>
 
-**_这是粗体加斜体文本_**
-</code></pre>
+<span class="pl-s">**</span><span class="pl-s">_</span>这是粗体加斜体文本<span class="pl-s">_</span><span class="pl-s">**</span></pre></div>
 <h2>3. 列表</h2>
 <p>无序列表使用星号 <code class="notranslate">*</code>、加号 <code class="notranslate">+</code> 或减号 <code class="notranslate">-</code> 来创建。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">* 项目1
-* 项目2
-* 项目3
-</code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-v">*</span> 项目1
+<span class="pl-v">*</span> 项目2
+<span class="pl-v">*</span> 项目3</pre></div>
 <p>有序列表则使用数字后跟一个点来创建。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">1. 第一项
-2. 第二项
-3. 第三项
-</code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-s">1</span><span class="pl-v">.</span> 第一项
+<span class="pl-s">2</span><span class="pl-v">.</span> 第二项
+<span class="pl-s">3</span><span class="pl-v">.</span> 第三项</pre></div>
 <h2>4. 链接和图片</h2>
 <p>在 Markdown 中添加链接和图片的语法非常相似，区别在于链接使用 <code class="notranslate">&lt;&gt;</code> 包裹 URL，而图片使用 <code class="notranslate">!</code> 开头。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">[这是一个链接](http://www.example.com)
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-s">[</span>这是一个链接<span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl">http://www.example.com</span><span class="pl-s">)</span>
 
-![这是一个图片](http://www.example.com/image.jpg)
-</code></pre>
+<span class="pl-s">![</span>这是一个图片<span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl">http://www.example.com/image.jpg</span><span class="pl-s">)</span></pre></div>
 <h2>5. 引用</h2>
 <p>引用文本是通过在文本前加上 <code class="notranslate">&gt;</code> 符号来创建的。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">&gt; 这是一个引用文本。
-</code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-ent"><span class="pl-ent">&gt; </span>这是一个引用文本。</span></pre></div>
 <h2>6. 代码</h2>
 <p>对于行内代码，你可以用反引号 <code class="notranslate">`</code> 包裹代码。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">这是一个 `行内代码` 示例。
-</code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate">这是一个 <span class="pl-s">`</span><span class="pl-c1">行内代码</span><span class="pl-s">`</span> 示例。</pre></div>
 <p>对于代码块，你可以使用三个反引号 ``` 包裹代码。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate"></code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate"></pre></div>
 <p>这是一个代码块。</p>
 <pre class="notranslate"><code class="notranslate"></code></pre>
 <h2>7. 表格</h2>
 <p>创建表格需要使用 <code class="notranslate">|</code> 来分隔列，使用 <code class="notranslate">-</code> 来分隔表头和表内容。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">| 表头1 | 表头2 | 表头3 |
-|-------|-------|-------|
-| 单元格1 | 单元格2 | 单元格3 |
-| 单元格4 | 单元格5 | 单元格6 |
-</code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-ml">|</span> 表头1 <span class="pl-ml">|</span> 表头2 <span class="pl-ml">|</span> 表头3 <span class="pl-ml">|</span>
+<span class="pl-ml">|</span>-------<span class="pl-ml">|</span>-------<span class="pl-ml">|</span>-------<span class="pl-ml">|</span>
+<span class="pl-ml">|</span> 单元格1 <span class="pl-ml">|</span> 单元格2 <span class="pl-ml">|</span> 单元格3 <span class="pl-ml">|</span>
+<span class="pl-ml">|</span> 单元格4 <span class="pl-ml">|</span> 单元格5 <span class="pl-ml">|</span> 单元格6 <span class="pl-ml">|</span></pre></div>
 <h2>8. 任务列表</h2>
 <p>GitHub 支持 Markdown 任务列表，通过 <code class="notranslate">- [ ]</code> 和 <code class="notranslate">- [x]</code> 来标记未完成和已完成的任务。</p>
-<pre lang="markdown" class="notranslate"><code class="notranslate">- [x] 完成的任务
-- [ ] 未完成的任务
-</code></pre>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-v">-</span> <span class="pl-k">[x]</span> 完成的任务
+<span class="pl-v">-</span> <span class="pl-k">[ ]</span> 未完成的任务</pre></div>
 <h2>结语</h2>
 <p>Markdown 是一个强大的工具，它使得在 GitHub 上编写和分享文档变得简单而高效。通过上述示例，你可以开始在 GitHub 上使用 Markdown 来创建和管理你的文档和项目资料。记住，Markdown 的语法简洁而直观，一旦你掌握了基本的语法，你将能够快速地编写出整洁、易读的文档。</p></div>
 <div style="font-size:small;margin-top:8px;float:right;">💖 转载请注明出处，谢谢 💖</div>
