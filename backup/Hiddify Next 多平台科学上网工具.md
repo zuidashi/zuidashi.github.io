@@ -22,4 +22,6 @@ https://github.com/hiddify/hiddify-next
 
 ### 下载地址
 [Hiddify Next（预览） - Google Play 上的应用](https://play.google.com/store/apps/details?id=app.hiddify.com)
-https://zuiqinghe.lanzouv.com/b00ef4gupg    密码: `23bx`
+
+**蓝奏云**  https://zuiqinghe.lanzoum.com/b00eg3xfpi    密码: `1mt5`
+**123云盘**  https://www.123684.com/s/2F5A-1K7P3    密码: `en7J`
